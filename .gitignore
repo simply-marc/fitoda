@@ -1,0 +1,14 @@
+# Ignore composer files
+/vendor/
+
+# Ignore IDE files
+/.idea/
+
+# Ignore docker database directory
+/.docker/data/
+
+# Ignore log files
+/logs/*
+
+# Ignore the composer lock file
+composer.lock
